@@ -1,0 +1,20 @@
+{
+  "name": "chaibackand",
+  "version": "1.0.0",
+  "description": "a basic app to deploye",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Anand patel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0"
+  }
+}
